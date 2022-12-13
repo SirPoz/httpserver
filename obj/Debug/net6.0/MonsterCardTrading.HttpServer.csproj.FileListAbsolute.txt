@@ -1,0 +1,12 @@
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\bin\Debug\net6.0\MonsterCardTrading.HttpServer.deps.json
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\bin\Debug\net6.0\MonsterCardTrading.HttpServer.dll
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\bin\Debug\net6.0\MonsterCardTrading.HttpServer.pdb
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\MonsterCardTrading.HttpServer.csproj.AssemblyReference.cache
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\MonsterCardTrading.HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\MonsterCardTrading.HttpServer.AssemblyInfoInputs.cache
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\MonsterCardTrading.HttpServer.AssemblyInfo.cs
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\MonsterCardTrading.HttpServer.csproj.CoreCompileInputs.cache
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\MonsterCardTrading.HttpServer.dll
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\refint\MonsterCardTrading.HttpServer.dll
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\MonsterCardTrading.HttpServer.pdb
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\ref\MonsterCardTrading.HttpServer.dll

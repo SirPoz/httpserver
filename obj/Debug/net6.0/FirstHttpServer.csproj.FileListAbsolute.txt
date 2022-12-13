@@ -1,0 +1,15 @@
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\bin\Debug\net6.0\FirstHttpServer.exe
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\bin\Debug\net6.0\FirstHttpServer.deps.json
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\bin\Debug\net6.0\FirstHttpServer.runtimeconfig.json
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\bin\Debug\net6.0\FirstHttpServer.dll
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\bin\Debug\net6.0\FirstHttpServer.pdb
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\FirstHttpServer.csproj.AssemblyReference.cache
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\FirstHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\FirstHttpServer.AssemblyInfoInputs.cache
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\FirstHttpServer.AssemblyInfo.cs
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\FirstHttpServer.csproj.CoreCompileInputs.cache
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\FirstHttpServer.dll
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\refint\FirstHttpServer.dll
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\FirstHttpServer.pdb
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\FirstHttpServer.genruntimeconfig.cache
+D:\FHOffline\3.Semester\SWEN\FirstHttpServer\obj\Debug\net6.0\ref\FirstHttpServer.dll
